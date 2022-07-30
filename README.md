@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...go ahead, read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...go ahead, read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling"/>
 
 ## Hi I'm Taevin <!--<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"/>-->
 [![wakatime](https://wakatime.com/badge/user/8c6a596f-7f9d-4586-a2f6-36afc7722571.svg)](https://wakatime.com/@8c6a596f-7f9d-4586-a2f6-36afc7722571)
@@ -53,4 +53,3 @@ I’m open to new positive network connections! Feel free to connect, and I look
 <br>
 
 [![Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20Some%20Of%20My%20Contributions.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling)](https://github.com/taevinbellamy88/portfolio-repo)
-</input>
