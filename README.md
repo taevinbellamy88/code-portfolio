@@ -6,7 +6,7 @@
 
 :mailbox: Reach out to me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-@taevinbellamy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taevin-bellamy/) [![GitHub Badge](https://img.shields.io/badge/@taevinbellamy88-e84393?style=flat&labelColor=e84393&logo=github&logoColor=black)](https://github.com/taevinbellamy88) [![Instagram Badge](https://img.shields.io/badge/-$XR1Clothing-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/secure1_/) [![Gmail Badge](https://img.shields.io/badge/-taevinbellamy.se@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:taevinbellamy.se@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-@taevinbellamy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taevin-bellamy/) [![GitHub Badge](https://img.shields.io/badge/@taevinbellamy88-e84393?style=flat&labelColor=e84393&logo=github&logoColor=black)](https://github.com/taevinbellamy88) [![Instagram Badge](https://img.shields.io/badge/-$XR1Clothing-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/secure1skate/) [![Gmail Badge](https://img.shields.io/badge/-taevinbellamy.se@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:taevinbellamy.se@gmail.com)
 
 <br>
 
