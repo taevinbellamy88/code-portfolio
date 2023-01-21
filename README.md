@@ -52,4 +52,4 @@ I’m open to new positive network connections! Feel free to connect, and I look
 </details>
 <br>
 
-[![Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20Some%20Of%20My%20Contributions.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling)](https://github.com/taevinbellamy88/portfolio-repo)
+[![Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20Some%20Of%20My%20Contributions.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling)](https://github.com/taevinbellamy88)
