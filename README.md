@@ -46,8 +46,7 @@ I’m open to new positive network connections! Feel free to connect, and I look
 <img src="https://img.shields.io/badge/ADO.NET-8DD6F9?style=flat&logo=ADO.NET&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
 <br>
-
-[![Taevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=taevinbellamy88&show_icons=true&theme=radical)](https://github.com/taevinbellamy88/github-readme-stats)
+[![Taevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=taevinbellamy88&show_icons=true&theme=tokyonight)](https://github.com/taevinbellamy88/github-readme-stats)
 </p>
 </details>
 <br>
