@@ -2,7 +2,7 @@
 
 ## Hi I'm Taevin <!--<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"/>-->
 [![wakatime](https://wakatime.com/badge/user/8c6a596f-7f9d-4586-a2f6-36afc7722571.svg)](https://wakatime.com/@8c6a596f-7f9d-4586-a2f6-36afc7722571)
-<img src="https://img.shields.io/badge/Taevin%20Bellamy-is%20Available for a Remote Work or Collaboration-greenyellow" />
+<img src="https://img.shields.io/badge/Taevin%20Bellamy-is Not%20Available for a Remote Work or Collaboration-red" />
 
 :mailbox: Reach out to me!
 
